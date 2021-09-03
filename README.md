@@ -1,9 +1,9 @@
 # VR-Final
 
-Unity VR project setup for oculus quest 2
+VR final project for oculus quest 2
+  -Made in unity with c#
 
-In the video file is a 2 min clip of me playing the game. 
 
-https://imgur.com/a/GiKzXsw
-https://imgur.com/a/5W5eV9B
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5W5eV9B" data-context="false" ><a href="//imgur.com/a/5W5eV9B"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Preview of game 
+
+https://user-images.githubusercontent.com/47371354/132026762-4895e6c4-ed3e-4f3d-9d9d-305413b992ad.mp4
