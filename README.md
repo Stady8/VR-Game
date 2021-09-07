@@ -1,6 +1,6 @@
 # VR Game
 
-VR final project for the oculus quest 2
+VR final project for the Oculus Quest 2
  
 Made in unity with C#
 
