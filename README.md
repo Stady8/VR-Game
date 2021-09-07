@@ -1,4 +1,4 @@
-# VR-Final
+# VR Game
 
 VR final project for the oculus quest 2
  
